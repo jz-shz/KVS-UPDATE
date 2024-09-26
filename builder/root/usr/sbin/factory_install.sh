@@ -73,6 +73,7 @@ credits(){
   echo "miimaker - Providing kernver 3 files."
   echo "OlyB - Helping me figure out the shim builder, seriously, thanks."
   echo "Google - Writing the 'tpmc' command :3"
+  echo "JZ - Provided kernver 4 files"
   echo "-=-=-=-=-=-=-=-=-=-=-"
   echo "Press ENTER to return to the main menu"
   read -r
@@ -85,7 +86,7 @@ endkvs(){
 
 
 main(){
-  echo "KVS: Kernel Version Switcher v$version"
+  echo "KVS: Kernel Version Switcher, Update by JZ v$version"
   echo "Current kernver: $kernver"
   echo "TPM Version: $tpmver"
   echo "TPMD: $tpmdaemon"
