@@ -1,5 +1,5 @@
 # kvs
-KVS: Kernel Version Switcher, made to easily switch the tpm_kernver for Chromebooks.
+KVS: Kernel Version Switcher, made to easily switch the tpm_kernver for Chromebooks. Currently attempting to add this as a payload to a modded sh1mmer known as "Jzmmer"
 
 ## Build Instructions
 1) Clone the repo: <br />
